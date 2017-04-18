@@ -8,6 +8,13 @@ body {
   top: 90%;
 }
 
+<<<<<<< HEAD
+=======
+#git {
+  padding-left: 48%;
+}
+
+>>>>>>> origin/master
 .pixel-size {
   width: 1em;
   height: 1em;
